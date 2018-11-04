@@ -12,9 +12,8 @@
   <div class="stackedit__left">
     <div class="stackedit__toc">
       
-<ul>
-<li><a href="#puntos-a-tratar-sublime-text">Puntos a tratar: Sublime Text</a>
-<ul>
+<h1><a href="#puntos-a-tratar-sublime-text">Puntos a tratar: Sublime Text</a></h1>
+
 <li><a href="#o-que-se-ve">O que se ve</a></li>
 <li><a href="#traballo-con-ficheiros">Traballo con ficheiros</a></li>
 <li><a href="#snippets-de-fábrica">Snippets de fábrica:</a></li>
