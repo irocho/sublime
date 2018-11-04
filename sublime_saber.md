@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>sublime_saber</title>
+
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -22,17 +22,10 @@
 <li><a href="#reindentado">Reindentado:</a></li>
 <li><a href="#botón-dereita-open-in-browser">botón dereita Open in Browser</a></li>
 <li><a href="#selección-múltiple">Selección múltiple</a>
-<ul>
-<li></li>
-</ul>
 </li>
 <li><a href="#packages">Packages</a></li>
 <li><a href="#exemplos-con-emmet">exemplos con emmet</a></li>
 </ul>
-</li>
-</ul>
-
-    </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
